@@ -1,0 +1,13 @@
+{
+  "name": "life-cover-needs-conversation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A conversation that works out how much life cover a person's situation implies, and shows the arithmetic.",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
